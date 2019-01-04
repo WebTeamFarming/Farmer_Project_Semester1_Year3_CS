@@ -1,0 +1,14 @@
+{
+    "name": "cs3/testing",
+    "description": "this project just for testing",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tay",
+            "email": "tay.uorn@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qrcode": "^3.5"
+    }
+}
